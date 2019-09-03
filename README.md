@@ -13,7 +13,7 @@
 
 
 ## In den Bootloader starten:
-8 halten beim Starten des Numpads
+2. Reihe von oben 2. Taste von links beim einstecken halten
 
 **Flashen:**
 ```
